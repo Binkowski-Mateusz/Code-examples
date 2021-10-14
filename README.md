@@ -1,2 +1,2 @@
 # Code-examples
-Welcome there, it's example code from my last project
+Welcome there, in file "Code Examples" is example code from my last project
